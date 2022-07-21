@@ -1,0 +1,9 @@
+# Author: Alvaro Chico
+# Created_at: 21/07/2022
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+
+profile_default/
+ipython_config.py
